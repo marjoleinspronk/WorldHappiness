@@ -5,4 +5,4 @@ Short exploration and visualization of the [World Happiness Ranking 2017](https:
 
 Happiness scores were determined by measuring the factors "GDP", "Social Support (Family)", "Life Expectation", "Freedom", "Generosity", and "Trust & Goverment Corruption".
 
-![World Happiness ranking 2017](HappyRankingMap2017.png)
+![World Happiness ranking 2017](images/HappyRankingMap2017.png)
