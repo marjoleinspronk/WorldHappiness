@@ -7,7 +7,7 @@ Happiness scores were determined by measuring the factors "GDP", "Social Support
 
 Below is a map of the world ranking fow 2017, ranging from happiest (Norway, blue) to least happy (Central African Republic, yellow) country: 
 <p align="center">
-  <img src="images/HappyRankingMap2017.png" width="500" title="Ranking of World Happiness">
+  <img src="images/HappyRankingMap2017.png" width="800" title="Ranking of World Happiness">
 </p>
 
 
@@ -52,6 +52,6 @@ As already clear from the original report, Northern European countries are the h
 
 ### Files in this repository 
 
-`WorldHappiness.ipynb` contains the code for exploration and visualization of the datasets.
-`2017.csv` is a csv file with the World Happiness data of the year 2017.
+`WorldHappiness.ipynb` contains the code for exploration and visualization of the datasets.  
+`2017.csv` is a csv file with the World Happiness data of the year 2017.  
 `countries of the world.csv` is a csv file with the World Factbook data.  
