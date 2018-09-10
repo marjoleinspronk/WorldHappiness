@@ -5,7 +5,7 @@ This repository contains an exploration and visualization of the [World Happines
 
 Happiness scores were determined by measuring the factors "GDP", "Social Support (Family)", "Life Expectation", "Freedom", "Generosity", and "Trust & Goverment Corruption".
 
-Below is a map of the world ranking fow 2017, ranging from happiest (Norway, blue) to least happy (Central African Republic, yellow) country: 
+Below is a map of the world ranking for 2017, ranging from happiest (Norway, blue) to least happy (Central African Republic, yellow) country: 
 <p align="center">
   <img src="images/HappyRankingMap2017.png" width="800" title="Ranking of World Happiness">
 </p>
